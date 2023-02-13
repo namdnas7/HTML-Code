@@ -1,188 +1,491 @@
-<div id="formWrapper_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="wrapper" style="height: 740.818px;"><input id="formInstanceID" class="formParam" type="hidden" value="D22CAEC4-4E35-4B21-8E72-315D7949C049"><input id="checklistModule" class="formParam" type="hidden" value="0"><input id="checklistTypeDefinitionID" class="formParam" type="hidden" value=""><input id="checklistSourceID" class="formParam" type="hidden" value=""><input id="checklistDocumentControlID" class="formParam" type="hidden" value=""><input id="checklistState" class="formParam" type="hidden" value="0"><input id="checklistStatusID" class="formParam" type="hidden" value=""><input id="formModuleID" class="formParam" type="hidden" value="B87C0020-2AD0-4E68-9725-35AC6CFABE32"><input id="formParent" class="formParam" type="hidden" value="E686D312-3E2F-4E66-9EAD-AC71C09267DD"><input id="refreshOnSubmoduleClose" class="formParam" type="hidden" value="1"><input id="recordID" class="formParam" type="hidden" value="441ed0d1-8bc8-47bd-bafc-4fe3f4849a97"><input id="recordNumber" class="formParam" type="hidden" value="19"><input id="recordRow" class="formParam" type="hidden" value="21"><input id="recordNumberDefinitionID" class="formParam" type="hidden" value="5BC8C2EB-C780-4D0E-9029-5A4CD108894E"><input id="recordDV" class="formParam" type="hidden" value="2023-02-13T14:58:36.617"><input id="recordPhaseID" class="formParam" type="hidden" value="AE3A6920-FB3C-4ADC-A9D4-6DAC75B62B1B"><input id="parentInstanceID" class="formParam" type="hidden" value="e686d312-3e2f-4e66-9ead-ac71c09267dd"><input id="parentRecordID" class="formParam" type="hidden" value="01cdc0ab-5d3c-4ca1-83d8-5c2f988cc460"><input id="parentRecordNumber" class="formParam" type="hidden" value="1031"><input id="parentQuestionID" class="formParam" type="hidden" value=""><input id="recordCreateDate" class="formParam" type="hidden" value="2023-02-13 02:15 pm"><input id="recordCreatedBy" class="formParam" type="hidden" value="Julian Mulder"><input id="recordModifyDate" class="formParam" type="hidden" value="2023-02-13 02:39 pm"><input id="recordModifyBy" class="formParam" type="hidden" value="Julian Mulder"><input id="allowAdd" class="formParam" type="hidden" value="1"><input id="allowSave" class="formParam" type="hidden" value=""><input id="allowEdit" class="formParam" type="hidden" value="1"><input id="hasViewOwnership" class="formParam" type="hidden" value=""><input id="hasEditOwnership" class="formParam" type="hidden" value=""><input id="hasDeleteOwnership" class="formParam" type="hidden" value=""><input id="hasReportOwnership" class="formParam" type="hidden" value=""><input id="allowReport" class="formParam" type="hidden" value="1"><input id="levelControlID" class="formParam" type="hidden" value=""><input id="viewControlID" class="formParam" type="hidden" value=""><input id="coordinate" class="formParam sysOther" type="hidden" value="A370FADB-3480-4270-8AE0-EC7A7C322528"><input id="altitude" class="formParam sysOther" type="hidden" value="4CC97EEC-3E6B-4CD9-AA5F-B32C99FEAE5C"><input id="floor" class="formParam sysOther" type="hidden" value="C4564F7D-B876-426F-A463-F5E52A9B54E6"><input id="horizontalAccuracy" class="formParam sysOther" type="hidden" value="D9E79C8E-1408-4649-8CD3-27A6D7E8CFAB"><input id="verticalAccuracy" class="formParam sysOther" type="hidden" value="7517992F-BE59-4F98-8229-4376B0840AAC"><div class="formNav">
-    <div id="nav_E686D312-3E2F-4E66-9EAD-AC71C09267DD" class="link" onclick="navForm('E686D312-3E2F-4E66-9EAD-AC71C09267DD','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Stakeholder Individual</div>
-    <div class="separator"></div>
-    <div id="nav_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="link" onclick="navForm('D22CAEC4-4E35-4B21-8E72-315D7949C049','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Topic/Issue Assessment</div>
-  </div>
-  <div class="formPager"><input id="hdnIndex" type="hidden" value="0"><input id="hdnPageSize" type="hidden" value="0"><div class="record"></div>
-    <div class="nav">
-      <div class="pre icon chevron left"></div>
-      <div class="count"></div>
-      <div class="nxt icon chevron right"></div>
-    </div>
-  </div>
-  <div id="control_023E76E4-83B1-4C59-A421-85A512082C62" data-automation-id="viewerlbl1Control" name="lbl1" type="lbl" parent="" class="nreqbox control lbl" style="top: 16px; left: 16px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
-    <div class="c-lbl" style="height: 18px;">Topic/Issue</div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_359049FA-9B56-4D59-A670-93070530E0E4" data-automation-id="viewerddl13Control" name="ddl13" type="ddl" parent="" class="control ddl ready reqbox dirty" style="top: 16px; left: 216px; z-index: 1; width: 728px; height: 24px; display: block;" hastriggers="0" valid="1">
-    <div class="select3 select3-ddl select3_7354374e c-ddl" style="width: 728px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="1e5f5700-24bc-418e-96b2-82b6cbc93cda" title="Access - H&amp;S -> Hazard - Plant area access">Access - H&amp;S -&gt; Hazard - Plant area access</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="A8AA761F-094B-4449-965B-EA052D73BD13" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="1" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 728px; height: 24px; display: none;"></div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="2" select_max="Max" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="2" select_max="Max" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_AB9A9843-47C4-4FC5-A4A1-DC284801BA76" data-automation-id="viewerlbl2Control" name="lbl2" type="lbl" parent="" class="nreqbox control lbl" style="top: 48px; left: 16px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
-    <div class="c-lbl" style="height: 18px;">Interest</div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_63C66781-07ED-4EB2-8A2F-CAED92ED118C" data-automation-id="viewerddl2Control" name="ddl2" type="ddl" parent="" class="control ddl ready reqbox" style="top: 48px; left: 216px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0" valid="1">
-    <div class="select3 select3-ddl select3_026f85a8 c-ddl" style="width: 192px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="446ca63c-a898-4d16-8a91-05ae0b2c533f" title="Very high">Very high</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="EE852E1E-215F-421B-BDAA-257925413CBE" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="1" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 192px; height: 24px; display: none;"></div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"><item name="fml1">  var cMonitorID = 'e605dac1-c06c-4021-9789-3ca8a137bc0d'; var cKeepInformedID = 'e2ec9b66-78a5-40f7-b21b-4e766c323480'; var cActivelyEngageID = '6afe8814-8bb3-4dc6-b89c-62dbf48f1a42'; var cManageCloselyID = '2619d911-2912-4778-a53c-c44f9840774a';  var vLanguageID = sessionObj.preferredlanguageid; var vLanguage;  switch (vLanguageID) {      case 'a50a7f35-56f8-451e-82d9-946bd9adedb4': /* English */         var vLanguage = 0;         break;      case 'a818b379-11b8-4553-a97a-45a64220118c': /* Spanish */         var vLanguage = 1;         break;      case '1834e342-6f88-4094-b838-65f30a517c47': /* Portuguese */         var vLanguage = 2;         break;      default: /* Default */         var vLanguage = 0;         break; }  var vText;  var vAssessmentID; var vMonitor = ['Monitor', 'Observar', 'Monitorar' ]; var vKeepInformed = ['Keep informed',  'Mantener informado'   , 'Mantenha informado' ]; var vActivelyEngage = ['Actively engage', 'Participar activamente' , 'Envolva-se ativamente' ]; var vManageClosely = ['Manage closely',  'Administrar de cerca'    , 'Gerenciar de perto' ];   var interest = $get(     '63C66781-07ED-4EB2-8A2F-CAED92ED118C',     form)[0].id; var influence = $get(     '46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759',     form)[0].id; var color = '#ffffff'; var text = ''; var font = '#000000'; if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#3CA044';     text = 'Monitor';     vText = vMonitor[vLanguage];     vAssessmentID = cMonitorID;  } else if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#f4ac1c';     text = 'Keep informed';     vText = vKeepInformed[vLanguage];     vAssessmentID = cKeepInformedID; } else if((interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         )) {     color = '#F05123';     text = 'Actively engage';     vText = vActivelyEngage[vLanguage];     vAssessmentID = cActivelyEngageID; } else if((interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         )) {     color = '#BD081D';     text = 'Manage closely'; vText = vManageClosely[vLanguage]; vAssessmentID = cManageCloselyID; } $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .c-fml',     form).css('background-color',     color); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).css('color', font); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).val(text); ("#control_1B31E04C-0302-48B4-A0A8-67090A7E577E",     form).find("input").change(); text;   $set('EFDAF519-9B27-442B-9BF6-8FE625DFBF75', {      'id': vAssessmentID,     'value' : vAssessmentID,     'value_text'  : vText }, form); </item></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_659162BA-5364-4414-A6BA-E9860CD4174E" data-automation-id="viewerlbl3Control" name="lbl3" type="lbl" parent="" class="nreqbox control lbl" style="top: 48px; left: 552px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
-    <div class="c-lbl" style="height: 18px;">Influence</div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759" data-automation-id="viewerddl3Control" name="ddl3" type="ddl" parent="" class="control ddl ready reqbox" style="top: 48px; left: 752px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0" valid="1">
-    <div class="select3 select3-ddl select3_7ed1ec9a c-ddl" style="width: 192px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="446ca63c-a898-4d16-8a91-05ae0b2c533f" title="Very high">Very high</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="EE852E1E-215F-421B-BDAA-257925413CBE" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="1" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 192px; height: 24px; display: none;"></div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"><item name="fml1">  var cMonitorID = 'e605dac1-c06c-4021-9789-3ca8a137bc0d'; var cKeepInformedID = 'e2ec9b66-78a5-40f7-b21b-4e766c323480'; var cActivelyEngageID = '6afe8814-8bb3-4dc6-b89c-62dbf48f1a42'; var cManageCloselyID = '2619d911-2912-4778-a53c-c44f9840774a';  var vLanguageID = sessionObj.preferredlanguageid; var vLanguage;  switch (vLanguageID) {      case 'a50a7f35-56f8-451e-82d9-946bd9adedb4': /* English */         var vLanguage = 0;         break;      case 'a818b379-11b8-4553-a97a-45a64220118c': /* Spanish */         var vLanguage = 1;         break;      case '1834e342-6f88-4094-b838-65f30a517c47': /* Portuguese */         var vLanguage = 2;         break;      default: /* Default */         var vLanguage = 0;         break; }  var vText;  var vAssessmentID; var vMonitor = ['Monitor', 'Observar', 'Monitorar' ]; var vKeepInformed = ['Keep informed',  'Mantener informado'   , 'Mantenha informado' ]; var vActivelyEngage = ['Actively engage', 'Participar activamente' , 'Envolva-se ativamente' ]; var vManageClosely = ['Manage closely',  'Administrar de cerca'    , 'Gerenciar de perto' ];   var interest = $get(     '63C66781-07ED-4EB2-8A2F-CAED92ED118C',     form)[0].id; var influence = $get(     '46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759',     form)[0].id; var color = '#ffffff'; var text = ''; var font = '#000000'; if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#3CA044';     text = 'Monitor';     vText = vMonitor[vLanguage];     vAssessmentID = cMonitorID;  } else if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#f4ac1c';     text = 'Keep informed';     vText = vKeepInformed[vLanguage];     vAssessmentID = cKeepInformedID; } else if((interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         )) {     color = '#F05123';     text = 'Actively engage';     vText = vActivelyEngage[vLanguage];     vAssessmentID = cActivelyEngageID; } else if((interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         )) {     color = '#BD081D';     text = 'Manage closely'; vText = vManageClosely[vLanguage]; vAssessmentID = cManageCloselyID; } $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .c-fml',     form).css('background-color',     color); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).css('color', font); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).val(text); ("#control_1B31E04C-0302-48B4-A0A8-67090A7E577E",     form).find("input").change(); text;   $set('EFDAF519-9B27-442B-9BF6-8FE625DFBF75', {      'id': vAssessmentID,     'value' : vAssessmentID,     'value_text'  : vText }, form); </item></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_129CBD62-F3ED-47AC-B200-8D7BCEB3F1FD" data-automation-id="viewerlbl4Control" name="lbl4" type="lbl" parent="" class="nreqbox control lbl" style="top: 80px; left: 16px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
-    <div class="c-lbl" style="height: 18px;">Assessment</div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_EFDAF519-9B27-442B-9BF6-8FE625DFBF75" data-automation-id="viewerddl_AssessmentControl" name="ddl_Assessment" type="ddl" parent="" class="nreqbox control ddl ready" style="top: 80px; left: 216px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="1" valid="1" control_background_color="monza" control_color="white">
-    <div class="select3 select3-ddl select3_d7402de3 c-ddl disabled" style="width: 192px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="2619d911-2912-4778-a53c-c44f9840774a" title="Manage closely">Manage closely</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="566BB282-28EF-4825-981F-5F937A440FE9" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="0" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 192px; height: 24px; display: none;"></div>
-    <div class="defaults"></div>
-    <div class="triggers"><item order="1" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="e605dac1-c06c-4021-9789-3ca8a137bc0d" value_display="Monitor" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="apple green" control_color="white" value_url=""></item></actions></item><item order="2" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="e2ec9b66-78a5-40f7-b21b-4e766c323480" value_display="Keep informed" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="sunglow yellow" control_color="system" value_url=""></item></actions></item><item order="3" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="6afe8814-8bb3-4dc6-b89c-62dbf48f1a42" value_display="Actively engage" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="warm orange" control_color="system" value_url=""></item></actions></item><item order="4" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="2619d911-2912-4778-a53c-c44f9840774a" value_display="Manage closely" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="monza" control_color="white" value_url=""></item></actions></item><item order="5" event="change"><conditions><item match="is_blank" control="ddl_Assessment" value="{{ selected}}" value_display="" value_factor="" value_url="" value2="{{ selected}}" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="system" control_color="system" value_url=""></item></actions></item></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="1"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="control_1B31E04C-0302-48B4-A0A8-67090A7E577E" data-automation-id="viewerfml1Control" name="fml1" type="fml" parent="" class="nreqbox control fml ready" style="top: 112px; left: 216px; z-index: 1; width: 192px; height: 24px; display: none;" hastriggers="0" valid="1">
-    <div class="border c-fml" style="height: 22px; background-color: rgb(189, 8, 29);"><i class="icon superscript editable-input"></i><input class="txt" type="text" style="color: rgb(0, 0, 0);" value="" readonly="readonly"></div>
-    <div class="defaults"></div>
-    <div class="triggers"></div>
-    <div class="formula"></div>
-    <div class="linkedControl"></div>
-    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="1"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="1"></item></div>
-    <div class="databinding">
-    </div>
-    <div class="filter"></div>
-    <div class="datalabel"></div>
-  </div>
-  <div id="divSpacer" class="formSpacer" style="top: 136px;"></div>
-  <div id="divFlow_form_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="process-form" style="display: none;">
-    <div class="navbar"><i class="close icon cross"></i><span class="pin-flow icon pushpin transition visible" i18n="pin_process_flow" original-title="" title="Pin process flow"></span><div id="divNavItemProcFlow">
-        <div class="link" i18n="process_flow" title="Process flow">Process flow</div>
-      </div>
-    </div>
-    <div class="flows">
-      <div id="divProcess_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="widget processflow">
-        <div class="propertyBox">
-          <div class="object">
-            <div class="icon tree"></div>
-            <div class="title">
-              <div class="name">Stakeholder Assessment</div>
-              <div class="type" i18n="process_flow" title="Process flow">Process flow</div>
-            </div>
-          </div>
-          <div align="center" class="padded">
-            <div id="step_1" class="flowstep">
-              <div class="step" phasenumber="1" phaseid="EE20BFC5-9752-47BF-892F-ACFD59E50F50">
-                <div class="title">Add phase</div><input id="step_1_visible" type="text" value="#control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_1_readonly" type="text" value="#control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_1_mandatory" type="text" value="#control_63C66781-07ED-4EB2-8A2F-CAED92ED118C, #control_359049FA-9B56-4D59-A670-93070530E0E4, #control_46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759"><div class="icon.edit" onclick="setPhase('D22CAEC4-4E35-4B21-8E72-315D7949C049', 1)"></div>
-                <div class="icon tree"></div>
-              </div>
-              <div class="shadow"></div>
-            </div>
-            <div class="next"></div>
-            <div id="step_2" class="flowstep">
-              <div class="step active" phasenumber="2" phaseid="AE3A6920-FB3C-4ADC-A9D4-6DAC75B62B1B">
-                <div class="title">Edit phase</div><input id="step_2_visible" type="text" value="#control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_2_readonly" type="text" value="#control_EFDAF519-9B27-442B-9BF6-8FE625DFBF75, #control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_2_mandatory" type="text" value="#control_46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759, #control_63C66781-07ED-4EB2-8A2F-CAED92ED118C, #control_359049FA-9B56-4D59-A670-93070530E0E4"><div class="icon.edit" onclick="setPhase('D22CAEC4-4E35-4B21-8E72-315D7949C049', 2)"></div>
-                <div class="icon tree"></div>
-              </div>
-              <div class="shadow"></div>
-            </div>
-          </div>
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js no-mobile desktop no-ie chrome chrome109 root-section w-1745 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 gt-1440 gt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch retina fontface domloaded clt-1680 no-cdgt-win" id="index-page"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex, nofollow"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="https://equinox-stdev.isometrix.net//">
+    
+<link href="css/semantic/reset.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.ui.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.buttons.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.layout.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/site.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/icon.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.icons.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/label.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/loader.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/dimmer.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/transition.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/message.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.jstree.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.jstree.overrides.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.select3.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+    <script src="scripts/core.head.js?_=4.16.24" type="text/javascript"></script>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>IsoMetrix</title><link rel="shortcut icon" href="favicon.ico?v=4.16.24">
+<link href="css/page.default.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.grid.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/ie9Fixes.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/menu.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/semantic/sidebar.min.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="css/core.ibutton.css?_=4.16.24" rel="stylesheet" type="text/css" async="" defer="">
+<link href="components/theme/templates/theme.css?_=4.16.24" rel="stylesheet" async="" defer="" type="text/css">
+<script type="text/javascript" src="scripts/core.session.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.namespace.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.jquery.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.lodash.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.utilities.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.debug.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.common.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.browser.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.ui.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.ajax.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.lang.js?_=4.16.24"></script><script type="text/javascript" src="components/language/language.aspx?_=4.16.24"></script><script type="text/javascript" src="scripts/semantic/dimmer.min.js?_=4.16.24"></script><script type="text/javascript" src="scripts/semantic/transition.min.js?_=4.16.24"></script><script type="text/javascript" src="scripts/semantic/visibility.min.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.jqueryui.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.tipsy.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.interface.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.jstree.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.constants.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.ibutton.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.ie.js?_=4.16.24"></script><script type="text/javascript" src="scripts/libs/handlebars.min.js?_=4.16.24"></script><script type="text/javascript" src="scripts/semantic/dropdown.min.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.menu.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.sidebar.js?_=4.16.24"></script><script type="text/javascript" src="scripts/page.default.js?_=4.16.24"></script><script type="text/javascript" src="scripts/core.globalsearch.js?_=4.16.24"></script><script type="text/javascript">head.load([ { "scripts/core.session.js" : "scripts/core.session.js?_=4.16.24" },  { "scripts/core.namespace.js" : "scripts/core.namespace.js?_=4.16.24" },  { "scripts/core.jquery.js" : "scripts/core.jquery.js?_=4.16.24" },  { "scripts/core.lodash.js" : "scripts/core.lodash.js?_=4.16.24" },  { "scripts/core.utilities.js" : "scripts/core.utilities.js?_=4.16.24" },  { "scripts/core.debug.js" : "scripts/core.debug.js?_=4.16.24" },  { "scripts/core.common.js" : "scripts/core.common.js?_=4.16.24" },  { "scripts/core.browser.js" : "scripts/core.browser.js?_=4.16.24" },  { "scripts/core.ui.js" : "scripts/core.ui.js?_=4.16.24" },  { "scripts/core.ajax.js" : "scripts/core.ajax.js?_=4.16.24" },  { "scripts/core.lang.js" : "scripts/core.lang.js?_=4.16.24" },  { "components/language/language.aspx" : "components/language/language.aspx?_=4.16.24" },  { "scripts/semantic/dimmer.min.js" : "scripts/semantic/dimmer.min.js?_=4.16.24" },  { "scripts/semantic/transition.min.js" : "scripts/semantic/transition.min.js?_=4.16.24" },  { "scripts/semantic/visibility.min.js" : "scripts/semantic/visibility.min.js?_=4.16.24" },  { "scripts/core.jqueryui.js" : "scripts/core.jqueryui.js?_=4.16.24" },  { "scripts/core.tipsy.js" : "scripts/core.tipsy.js?_=4.16.24" },  { "scripts/core.interface.js" : "scripts/core.interface.js?_=4.16.24" },  { "scripts/core.jstree.js" : "scripts/core.jstree.js?_=4.16.24" },  { "scripts/core.constants.js" : "scripts/core.constants.js?_=4.16.24" },  { "scripts/core.ibutton.js" : "scripts/core.ibutton.js?_=4.16.24" },  { "scripts/core.ie.js" : "scripts/core.ie.js?_=4.16.24" },  { "scripts/libs/handlebars.min.js" : "scripts/libs/handlebars.min.js?_=4.16.24" },  { "scripts/semantic/dropdown.min.js" : "scripts/semantic/dropdown.min.js?_=4.16.24" },  { "scripts/core.menu.js" : "scripts/core.menu.js?_=4.16.24" },  { "scripts/core.sidebar.js" : "scripts/core.sidebar.js?_=4.16.24" },  { "scripts/page.default.js" : "scripts/page.default.js?_=4.16.24" },  { "scripts/core.globalsearch.js" : "scripts/core.globalsearch.js?_=4.16.24" }]); </script><script>sessionObj = {};sessionObj.displayname='Julian Mulder';sessionObj.username='Metrixjulian';sessionObj.email='julian.mulder@isometrix.com';sessionObj.userid='c32e2a71-00db-4875-b807-40f2e940a8af';sessionObj.proxyuserid='';sessionObj.proxydisplayname='';sessionObj.superuser='c32e2a71-00db-4875-b807-40f2e940a8af';sessionObj.preferredlanguageid='a50a7f35-56f8-451e-82d9-946bd9adedb4';sessionObj.preferredlanguageLocale='en-ZA';sessionObj.interfaceid='a0a12516-c95f-44ff-b6b1-a9d8001400b6';sessionObj.returnUrl='%2F';</script>
+    <script type="text/javascript">
+        var sessionTimeout = 3600;
+        var sessionWarning = 3000;
+        var _cw = 980;
+        var showSupport = 0;
+        var enableProfile = 1;
+        _post = "";
+    </script>
+    
+
+    <script id="side-menu-template" type="text/x-handlebars-template" async="">
+        {{#each .}}
+            {{#ifCond has_view "1"}}
+                {{#if_folder_has_children menutype url_custom children}}
+                    <div class="item">
+                        <a class="item header">{{#ifCond hasOwnIcon "1"}}
+                                <i class="{{iconclass}} link" title="{{name}}"></i>
+                            {{else}}
+                                {{#ifCond menutype "instance"}}
+                                    <i class="icon explain link" title="{{name}}"></i>
+                            {{/ifCond}}
+                            {{#ifCond menutype "module"}}
+                                    <i class="icon explain link" title="{{name}}"></i>
+                            {{/ifCond}}
+                            {{#ifCond menutype "interface"}}
+                                    <i class="icon select_all link" title="{{name}}"></i>
+                            {{/ifCond}}
+                            {{#ifCond menutype "systempage"}}
+                                    <i class="icon maintenance link" title="{{name}}"></i>
+                            {{/ifCond}}
+                            {{#ifCond menutype "custom"}}
+                                {{#ifCond url_custom null}}
+                                    <i class="icon doc folder offset link" title="{{name}}"></i>
+                            {{else}}
+                                    <i class="icon links offset link" title="{{name}}"></i>
+                            {{/ifCond}}
+                            {{/ifCond}}
+                            {{#ifCond menutype "dashboard"}}
+                                    <i class="icon graphs bar link" title="{{name}}"></i>
+                            {{/ifCond}}
+                           {{/ifCond}}
+        
+                            <div menuid="{{id}}">{{name}}</div>
+
+                            {{#ifCond hasChildren "1"}}
+                                {{#if_has_view_children children}}
+                                    <div class="menu item iso">
+                                        {{#each children}}
+                                            {{#ifCond has_view "1"}}
+                                                <a class="item">
+                                                    <div menuid="{{id}}" title="{{name}}">{{name}}</div>
+                                                </a>
+                                        {{/ifCond}}
+                                        {{/each}}
+                                    </div>
+                            {{/if_has_view_children}}
+                            {{/ifCond}}
+                        </a>
+                    </div>
+        {{/if_folder_has_children}}
+            {{/ifCond}}
+        {{/each}}
+
+        {{!-- My Profile --}}
+        <div class="item myProfile">
+            <a class="item header" onclick="top.metrix.core.ui.openLink(1, metrix.core.ui.linkTypes.systemPage.id, null, 'components/admin/profile.aspx?myprofile=1');">
+                <i class="icon individual link" i18n="profile" original-title></i>
+                <div i18n="profile"></div>
+            </a>
         </div>
-      </div>
-    </div>
-  </div>
-  <div id="divReport_form_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="process-form" style="display: none;">
-    <div class="navbar"><i class="close icon cross"></i><div id="divNavItem">
-    <div id="nav_E686D312-3E2F-4E66-9EAD-AC71C09267DD" class="link" onclick="navForm('E686D312-3E2F-4E66-9EAD-AC71C09267DD','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Stakeholder Individual</div>
-    <div class="separator"></div>
-    <div id="nav_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="link" onclick="navForm('D22CAEC4-4E35-4B21-8E72-315D7949C049','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Topic/Issue Assessment</div>
-  </div>
-    </div>
-    <div class="flows">
-      <div id="divReports_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="widget processflow">
-        <div class="propertyBox">
-          <div class="object">
-            <div class="icon chart-bars three"></div>
-            <div class="title">
-              <div class="name">Stakeholder Assessment</div>
-              <div class="type"></div>
+
+        {{!-- Contact Support --}}
+			<div id="supportEmail" class="item">
+                <a class="item header" target="_top" href="mailto:support@isometrix.com">
+                    <i class="icon support email address question link" i18n="support_email_address" original-title></i>
+                    <div i18n="support_email_address"></div>
+                </a>
             </div>
-          </div>
-          <div align="center" class="padded"></div>
+        {{!-- Utilities --}}
+			<div id="utilities" class="item">
+                <a class="item header" onclick="top.metrix.core.ui.openLink(1, metrix.core.ui.linkTypes.systemPage.id, null, 'components/admin/utilities.aspx');">
+                    <i class="icon maintenance link" original-title="Utilities"></i>
+                    <div>Utilities</div>
+                </a>
+            </div>
+
+        {{!-- Logout --}}
+            <div class="item">
+                <a class="item header" onclick="top.logout()">
+                    <i class="icon log out link" i18n="logout" original-title></i>
+                    <div i18n="logout"></div>
+                </a>
+            </div>
+    </script>
+<title>
+
+</title></head>
+<body style="overflow: hidden;">
+    <div class="body">
+        
+        
+    <input name="ctl00$body$hdnMaxWidth" type="hidden" id="hdnMaxWidth" value="1280">
+    <input name="ctl00$body$homeInterface" type="hidden" id="homeInterface" value="a0a12516-c95f-44ff-b6b1-a9d8001400b6">
+    <input name="ctl00$body$systemInterface" type="hidden" id="systemInterface" value="671FBDCC-7E2B-4F8A-B958-49C354875B1E">
+    <input name="ctl00$body$formMaxWidth" type="hidden" id="formMaxWidth" value="980">
+    <input name="ctl00$body$hdnInputAuthenticationMixedMode" type="hidden" id="hdnInputAuthenticationMixedMode" value="1">
+    <input name="ctl00$body$hdnInputAuthenticationMode" type="hidden" id="hdnInputAuthenticationMode" value="0">
+    <!--Top Menu-->
+    <div class="ui borderless mini top fixed menu" style="opacity: 1;">
+
+        <a class="item iso sidebar trigger">
+            <i class="large sidebar link icon menu"></i>
+        </a>
+
+        <div class="iso header item brand">
+            <svg xmlns="http://www.w3.org/2000/svg" width="170px" height="20px" viewBox="0 0 363.83 43.22" class="logo image grey and blue">
+                <g class="iso-logo-graphic">
+                    <path class="cls-1" d="M351.39,285v31.35H343V285H331.71v-7.35h31V285H351.39Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="iso" d="M116.78,277.63h8.68v38.71h-8.68V277.63Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="iso" d="M166.24,305.28c0,6.47-5.53,11.61-14,11.61-9.68,0-14.76-5.81-14.76-5.81l5-5.36S146.72,310,152.7,310c2.93,0,4.92-1.66,4.92-3.82,0-2.49-1.88-4.26-8.79-7-5.36-2.1-9.23-5.53-9.23-11.11,0-6.3,5.31-11,13.44-11a18.87,18.87,0,0,1,13.11,5l-5,5.36a11.86,11.86,0,0,0-8-3.48c-3.32,0-4.92,1.77-4.92,3.48,0,2.27,1.55,3.65,7,5.75C161,295.44,166.24,299,166.24,305.28Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="iso" d="M215.65,296.87c0,11.17-8.9,20-20.46,20S175,308.32,175,297.15a20.05,20.05,0,0,1,20.46-20.07C207,277.08,215.65,285.7,215.65,296.87Zm-8.41.11a11.89,11.89,0,1,0-23.78,0c0,6.91,5,12.16,11.89,12.16A11.76,11.76,0,0,0,207.25,297Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="cls-1" d="M290.91,316.34V277.63h28.48V285h-20v8h17.25v6.86H299.37V309h20.57v7.3h-29Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="cls-1" d="M374.89,277.63H392.2c8.29,0,13.93,5.14,13.93,12.55A12,12,0,0,1,398,301.85l9.79,14.49H398L389.32,303h-6v13.33h-8.46V277.63Zm8.46,7.13v11.72h7.8c4.15,0,6.58-2.43,6.58-5.86s-2.43-5.86-6.58-5.86h-7.8Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="cls-1" d="M420.09,277.63h8.68v38.71h-8.68V277.63Z" transform="translate(-116.28 -274.17)"></path>
+                    <path class="cls-1" d="M459,302.85l-9.79,13.49h-9.79l14.87-19.68-14.27-19H450.3l9.18,12.66,9.23-12.66h9.79l-14.32,18.91,14.93,19.8H468.88Z" transform="translate(-116.28 -274.17)"></path>
+                    <g>
+                        <polygon class="cls-2" points="103.03 42.67 124 1.11 133.2 19.36 121.44 42.67 103.03 42.67"></polygon>
+                        <path class="cls-2" d="M240.27,276.39l8.64,17.13-11.51,22.81H220.13l20.15-39.95m0-2.22-0.89,1.77-20.15,39.95-0.73,1.45H238l0.28-.55L249.81,294l0.23-.45-0.23-.45-8.64-17.13-0.89-1.77h0Z" transform="translate(-116.28 -274.17)"></path>
+                    </g>
+                    <g>
+                        <polygon class="cls-2" points="146.7 42.67 134.94 19.36 144.14 1.11 165.1 42.67 146.7 42.67"></polygon>
+                        <path class="cls-2" d="M260.42,276.39l20.15,39.95H263.29l-11.51-22.81,8.64-17.13m0-2.22-0.89,1.77-8.64,17.13-0.23.45,0.23,0.45,11.51,22.81,0.28,0.55H282.2l-0.73-1.45-20.15-39.95-0.89-1.77h0Z" transform="translate(-116.28 -274.17)"></path>
+                    </g>
+                    <polygon class="cls-1" points="124 42.17 144.14 42.17 134.07 22.2 124 42.17"></polygon>
+                </g>
+            </svg>
+            <div id="divSiteName">Equinox ST1.0 Dev</div>
         </div>
-      </div>
+
+        <div class="side head wrapper">
+            <div class="header item">
+                <!-- Inverted Logo Here -->
+            </div>
+        </div>
+
+        <div class="right menu">
+            <div class="ui dropdown item" tabindex="0">
+                <span class="user">Julian Mulder</span>
+                <i class="dropdown chevron down icon"></i>
+                <div class="ui vertical menu transition hidden" tabindex="-1">
+                    <div class="item profile">
+                        <i class="icon individual"></i>
+                        <span class="text" i18n="profile" title="Profile">Profile</span>
+                    </div>
+                    <div class="item home">
+                        <i class="icon land access and resettlement"></i>
+                        <span class="text" i18n="home" title="Home">Home</span>
+                    </div>
+                    <div class="item user interface" id="interface_671FBDCC-7E2B-4F8A-B958-49C354875B1E"><i class="icon land access and resettlement"></i><span class="text">System interface</span></div><div class="item add" id="new_interface">
+                        <i class="icon plus link"></i>
+                        <span class="text" i18n="add_interface" title="Add interface">Add interface</span>
+                    </div>
+                </div>
+            </div>
+            <a class="item interface cancel transition hidden"><i class="large cross link icon"></i><span i18n="cancel" title="Cancel">Cancel</span></a>
+            <a class="item interface save transition hidden"><i class="large checkmark link icon"></i><span i18n="done_customizing_interface" title="Customization Complete">Customization Complete</span></a>
+            <div class="ui icon item">
+                <a class="item interface edit transition hidden" i18n="edit_interface" original-title="" title="Edit interface"><i class="large icon edit link"></i></a>
+                <a class="item global search transition visible" i18n="search" original-title="" title="Search"><i class="large icon search link"></i></a>
+                <a class="item logout" i18n="logout" original-title="" title="Logout"><i class="large log out link icon"></i></a>
+            </div>
+        </div>
+
     </div>
-  </div>
-  <div id="events_D22CAEC4-4E35-4B21-8E72-315D7949C049_form" class="events"></div>
-  <div class="processFlow"><item phasenumber="2" phaseid="AE3A6920-FB3C-4ADC-A9D4-6DAC75B62B1B"></item><item phasenumber="1" phaseid="EE20BFC5-9752-47BF-892F-ACFD59E50F50"></item></div>
-  <div id="divMainNotif" class="notifications">
-    <div id="divMessage" class="ui floating icon message"><i id="messageIcon" class="icon"></i><div class="content">
-        <div id="txtHeader" i18n="record_saved" class="header" title="Record saved">Record saved</div>
-      </div>
+    <!--Side Menu-->
+    <div class="ui iso left vertical inverted sidebar menu navbar" style="opacity: 1;">
+    
+                    <div class="item">
+                        <a class="item header">
+                                <i class="icon radiation link" original-title="Equinox Gold "></i>
+        
+                            <div menuid="6da47523-d4af-4656-b65a-8cb2b12ee209">Equinox Gold </div>
+
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="item header">
+                                <i class="icon health safety and environment link" original-title="Equinox Stakeholder &amp; Incident Management "></i>
+        
+                            <div menuid="f7bcc819-09b9-4508-843d-a158d7be7391">Equinox Stakeholder &amp; Incident Management </div>
+
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="item header">
+                                <i class="icon system settings link" original-title="Managing IsoMetrix"></i>
+        
+                            <div menuid="52bd975d-c9c8-4a6e-b42b-3502139fca6b">Managing IsoMetrix</div>
+
+                                    </a><div class="menu item iso"><a class="item header">
+                                                </a><a class="item">
+                                                    <div menuid="f1281401-8a26-47e0-a8d3-41711cfcf867" title="Organization">Organization</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="766b6677-85f4-45ed-a285-bb8aa68781a0" title="User Groups">User Groups</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="3677fb10-df81-402a-accf-62b1b5a94d8e" title="Users">Users</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="e1b35890-2635-4c0d-80c7-d0df79b4b475" title="Menu">Menu</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="cd7951fa-8632-4d5c-88a3-cfa5ca9daf92" title="Settings">Settings</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="d0536a53-935b-4d1d-82a3-038aa5a10a1c" title="System">System</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="d66a10a6-fd17-48ff-89cc-8c86d6e7854d" title="Data Sources">Data Sources</div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="a6161098-1ee9-41f6-9f8d-b13e933ebc8b" title="Checklists ">Checklists </div>
+                                                </a>
+                                                <a class="item">
+                                                    <div menuid="6b5e07cd-898a-49a4-ba90-db325d4ac1c6" title="Mobile record download filters">Mobile record download filters</div>
+                                                </a>
+                                    </div>
+                        
+                    </div>
+
+        <div class="item myProfile">
+            <a class="item header" onclick="top.metrix.core.ui.openLink(1, metrix.core.ui.linkTypes.systemPage.id, null, 'components/admin/profile.aspx?myprofile=1');">
+                <i class="icon individual link" i18n="profile" original-title="Profile"></i>
+                <div i18n="profile" title="Profile">Profile</div>
+            </a>
+        </div>
+
+			<div id="supportEmail" class="item" style="display: none;">
+                <a class="item header" target="_top" href="mailto:support@isometrix.com">
+                    <i class="icon support email address question link" i18n="support_email_address" original-title="Contact support" title="Contact support"></i>
+                    <div i18n="support_email_address" title="Contact support">Contact support</div>
+                </a>
+            </div>
+			<div id="utilities" class="item">
+                <a class="item header" onclick="top.metrix.core.ui.openLink(1, metrix.core.ui.linkTypes.systemPage.id, null, 'components/admin/utilities.aspx');">
+                    <i class="icon maintenance link" original-title="Utilities"></i>
+                    <div>Utilities</div>
+                </a>
+            </div>
+
+            <div class="item">
+                <a class="item header" onclick="top.logout()">
+                    <i class="icon log out link" i18n="logout" original-title="Logout" title="Logout"></i>
+                    <div i18n="logout" title="Logout">Logout</div>
+                </a>
+            </div>
     </div>
-  </div>
-</div>
+    <!--Side Menu Footer-->
+    <div class="item iso footer">
+        <footer>© 2023&nbsp;IsoMetrix&nbsp;v4.16.24</footer>
+    </div>
+    <!--Main Content-->
+    <div class="ui pushable" style="opacity: 1;">
+        <!--Home-->
+        <div class="pusher iso main content" style="width: calc(100% - 44px);">
+            <div class="wrap">
+                <iframe id="ifrMain" name="ifrMain" src="components/viewer/module.aspx?id=e686d312-3e2f-4e66-9ead-ac71c09267dd&amp;action=o"></iframe>
+
+                <iframe id="ifrPrimaryPopupCover" class="cover" frameborder="0" style="display: none;"></iframe>
+                <iframe id="qlikSenseApp" name="qlikSenseApp" src="components/interfaces/qlikSense/qlikSenseApp.aspx"></iframe>
+
+                <div id="divPrimaryPopup" style="display: none;">
+                </div>
+
+
+                <div id="divWait" class="ui active inverted dimmer transition hidden">
+                    <div class="ui text loader" id="txtWait" i18n="loading" title="Loading..."></div>
+                    <svg id="isowatermark" xmlns="http://www.w3.org/2000/svg" width="100%" height="5%" viewBox="0 0 363.83 43.22" class="logo image grey and blue">
+                        <g class="iso-logo-graphic">
+                            <path class="cls-1" d="M351.39,285v31.35H343V285H331.71v-7.35h31V285H351.39Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="iso" d="M116.78,277.63h8.68v38.71h-8.68V277.63Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="iso" d="M166.24,305.28c0,6.47-5.53,11.61-14,11.61-9.68,0-14.76-5.81-14.76-5.81l5-5.36S146.72,310,152.7,310c2.93,0,4.92-1.66,4.92-3.82,0-2.49-1.88-4.26-8.79-7-5.36-2.1-9.23-5.53-9.23-11.11,0-6.3,5.31-11,13.44-11a18.87,18.87,0,0,1,13.11,5l-5,5.36a11.86,11.86,0,0,0-8-3.48c-3.32,0-4.92,1.77-4.92,3.48,0,2.27,1.55,3.65,7,5.75C161,295.44,166.24,299,166.24,305.28Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="iso" d="M215.65,296.87c0,11.17-8.9,20-20.46,20S175,308.32,175,297.15a20.05,20.05,0,0,1,20.46-20.07C207,277.08,215.65,285.7,215.65,296.87Zm-8.41.11a11.89,11.89,0,1,0-23.78,0c0,6.91,5,12.16,11.89,12.16A11.76,11.76,0,0,0,207.25,297Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="cls-1" d="M290.91,316.34V277.63h28.48V285h-20v8h17.25v6.86H299.37V309h20.57v7.3h-29Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="cls-1" d="M374.89,277.63H392.2c8.29,0,13.93,5.14,13.93,12.55A12,12,0,0,1,398,301.85l9.79,14.49H398L389.32,303h-6v13.33h-8.46V277.63Zm8.46,7.13v11.72h7.8c4.15,0,6.58-2.43,6.58-5.86s-2.43-5.86-6.58-5.86h-7.8Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="cls-1" d="M420.09,277.63h8.68v38.71h-8.68V277.63Z" transform="translate(-116.28 -274.17)"></path>
+                            <path class="cls-1" d="M459,302.85l-9.79,13.49h-9.79l14.87-19.68-14.27-19H450.3l9.18,12.66,9.23-12.66h9.79l-14.32,18.91,14.93,19.8H468.88Z" transform="translate(-116.28 -274.17)"></path>
+                            <g>
+                                <polygon class="cls-2" points="103.03 42.67 124 1.11 133.2 19.36 121.44 42.67 103.03 42.67"></polygon>
+                                <path class="cls-2" d="M240.27,276.39l8.64,17.13-11.51,22.81H220.13l20.15-39.95m0-2.22-0.89,1.77-20.15,39.95-0.73,1.45H238l0.28-.55L249.81,294l0.23-.45-0.23-.45-8.64-17.13-0.89-1.77h0Z" transform="translate(-116.28 -274.17)"></path>
+                            </g>
+                            <g>
+                                <polygon class="cls-2" points="146.7 42.67 134.94 19.36 144.14 1.11 165.1 42.67 146.7 42.67"></polygon>
+                                <path class="cls-2" d="M260.42,276.39l20.15,39.95H263.29l-11.51-22.81,8.64-17.13m0-2.22-0.89,1.77-8.64,17.13-0.23.45,0.23,0.45,11.51,22.81,0.28,0.55H282.2l-0.73-1.45-20.15-39.95-0.89-1.77h0Z" transform="translate(-116.28 -274.17)"></path>
+                            </g>
+                            <polygon class="cls-1" points="124 42.17 144.14 42.17 134.07 22.2 124 42.17"></polygon>
+                        </g>
+                    </svg>
+                </div>
+
+                <div id="divConfirm" class="centreTopPopup">
+                    <div class="popup-container">
+                        <div class="confirm-popup popup">
+                            <div class="popup-head">
+                                <span>&nbsp;</span>
+                            </div>
+                            <div class="roundbox-content">
+                                <div id="txtConfirm" class="alert"></div>
+                                <div id="btnConfirmYes" class="button primary right sml" style="margin: 10px 0 5px 0;">
+                                    <div i18n="yes" title="Yes">Yes</div>
+                                </div>
+                                <div id="btnConfirmNo" class="button secondary right sml">
+                                    <div i18n="no" title="No">No</div>
+                                </div>
+                                <div id="btnConfirmCancel" class="button secondary left sml">
+                                    <div i18n="cancel" title="Cancel">Cancel</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="divAlert" class="centreTopPopup">
+                    <div class="popup-container">
+                        <div class="popup">
+                            <div class="popup-head">
+                                <span id="txtAlertHead" i18n="record_history" title="Record history">Record history</span>
+                                <span class="txtDebugId"></span>
+                            </div>
+                            <div class="roundbox-content">
+                                <div id="txtAlert" class="alert"></div>
+                                <div id="btnHideAlert" class="button primary right sml">
+                                    <div i18n="ok" title="OK">OK</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- CVS - 20160118 - v4.0.0RC9 - #106 - Change the class for centering of pop-ups  -->
+                <div id="divChangePassword" class="centreTopPopup">
+                    <!-- CVS - 20150122 - #NoAction - v4.0.0 - Login: Added pop-up to assist user in changing their password -->
+                    <div class="popup-container">
+                        <div class="popup">
+                            <div class="roundbox-content" style="z-index: 99902; padding-left: 2px; padding-right: 2px;">
+                                <div id="passwordInput"></div>
+                                <div id="lblPasswordReset" class="boxlabel" i18n="reset_password" title="Reset password">Reset password</div>
+                                <div class="pad" style="margin-top: 3px;">
+                                    <div class="reqbox">
+                                        <input id="newPassword" name="newPassword" type="password" onkeyup="passValidate()" style="margin-left: 0px; width: 100%" class="framed">
+                                    </div>
+                                </div>
+                                <div id="lblConfirmPassword" class="boxlabel" i18n="confirm_password" title="Confirm password">Confirm password</div>
+                                <div class="pad" style="margin-top: 3px;">
+                                    <div class="reqbox">
+                                        <input id="confirmPassword" name="confirmPassword" type="password" onkeyup="passValidate()" style="margin-left: 0px; width: 100%" class="framed">
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="pswd_info">
+                                <h4 i18n="password_must_meet_the_following_criteria" title="Password must meet the following criteria:">Password must meet the following criteria:</h4>
+                                <ul>
+                                    <li id="password_match" i18n="password_match" class="invalid" title="Passwords must match">Passwords must match</li>
+                                </ul>
+                            </div>
+                            <div class="pad">
+                                <!-- height of inner content -->
+                                <div id="btnPasswordSave" class="button primary right sml">
+                                    <div i18n="ok" title="OK">OK</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <input name="ctl00$body$passwordResetVariable" type="text" id="passwordResetVariable" value="0">
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Post Login popup and Cover -->
+    <div id="divpostLoginPopup" class="centreTopPopup">
+        <div class="popup-container">
+            <div id="postLoginPopups" class="popup">
+                <div style="z-index: 99902">
+                    <div class="l">
+                        <div class="r">
+                            <div class="c">
+                                <div class="frameWrapper" style="height: 632.7px;">
+                                    <iframe id="postLoginFrame" name="postLoginFrame" src="" style="height: 628.791px;">
+                                        <p>Your browser does not support iframes.</p>
+                                    </iframe>
+                                </div>
+                                <div id="btnClose" class="button primary right sml">
+                                    <div i18n="ok" title="OK">OK</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ifrPostLoginCover" class="ui active inverted dimmer transition hidden"></div>
+
+    
+    <div id="divGlobalSearch" class="centreTopPopup transition hidden">
+        <div class="popup-container">
+            <div id="globalSearchPopup" class="popup">
+                <div class="searchWidget">
+                    <div class="search">
+                        <input id="txtGlobalSearch" class="input" type="text" i18np="type_to_search" placeholder="Type to search">
+                        <div class="icon cross widgetbutton" id="btnGlobalClearSearch" data-action="clearSearch" i18n="clear" original-title="" title="Clear"></div>
+                        <div class="icon search widgetbutton" id="btnGlobalSearch" i18n="search" original-title="" title="Search"></div>
+                    </div>
+                </div>
+                <div id="suggestionMenu" class="ui vertical menu transition hidden">
+                    <div class="item moduleInstance">
+                        <span class="text" i18n="module_instances" title="Module instances">Module instances</span>
+                    </div>
+                    <ul id="moduleInstanceList"></ul>
+                    <div class="item interface">
+                        <span class="text" i18n="interfaces" title="Interfaces">Interfaces</span>
+                    </div>
+                    <ul id="interfaceList"></ul>
+                    <div class="item systemPage">
+                        <span class="text" i18n="system_pages" title="System Pages">System Pages</span>
+                    </div>
+                    <ul id="systemPageList"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="divSearchLoading" class="ui active inverted dimmer transition hidden">
+        <div class="ui text loader" id="txtWait" i18n="loading" title="Loading...">Loading...</div>
+    </div>
+
+    <!--Notifications -->
+    <div id="divMainNotif" class="notifications">
+
+        <div id="divMessage" class="ui floating icon message">
+            <i id="messageIcon" class="icon"></i>
+            <i class="close icon"></i>
+            <div class="content">
+                <div id="txtHeader" i18n="record_saved" class="header" title="Record saved">Record saved</div>
+                <p id="txtMessage" class="message"></p>
+            </div>
+        </div>
+
+    </div>
+    
+
+    </div>
+
+
+</body></html>
