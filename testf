@@ -1,0 +1,188 @@
+<div id="formWrapper_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="wrapper" style="height: 740.818px;"><input id="formInstanceID" class="formParam" type="hidden" value="D22CAEC4-4E35-4B21-8E72-315D7949C049"><input id="checklistModule" class="formParam" type="hidden" value="0"><input id="checklistTypeDefinitionID" class="formParam" type="hidden" value=""><input id="checklistSourceID" class="formParam" type="hidden" value=""><input id="checklistDocumentControlID" class="formParam" type="hidden" value=""><input id="checklistState" class="formParam" type="hidden" value="0"><input id="checklistStatusID" class="formParam" type="hidden" value=""><input id="formModuleID" class="formParam" type="hidden" value="B87C0020-2AD0-4E68-9725-35AC6CFABE32"><input id="formParent" class="formParam" type="hidden" value="E686D312-3E2F-4E66-9EAD-AC71C09267DD"><input id="refreshOnSubmoduleClose" class="formParam" type="hidden" value="1"><input id="recordID" class="formParam" type="hidden" value="441ed0d1-8bc8-47bd-bafc-4fe3f4849a97"><input id="recordNumber" class="formParam" type="hidden" value="19"><input id="recordRow" class="formParam" type="hidden" value="21"><input id="recordNumberDefinitionID" class="formParam" type="hidden" value="5BC8C2EB-C780-4D0E-9029-5A4CD108894E"><input id="recordDV" class="formParam" type="hidden" value="2023-02-13T14:58:36.617"><input id="recordPhaseID" class="formParam" type="hidden" value="AE3A6920-FB3C-4ADC-A9D4-6DAC75B62B1B"><input id="parentInstanceID" class="formParam" type="hidden" value="e686d312-3e2f-4e66-9ead-ac71c09267dd"><input id="parentRecordID" class="formParam" type="hidden" value="01cdc0ab-5d3c-4ca1-83d8-5c2f988cc460"><input id="parentRecordNumber" class="formParam" type="hidden" value="1031"><input id="parentQuestionID" class="formParam" type="hidden" value=""><input id="recordCreateDate" class="formParam" type="hidden" value="2023-02-13 02:15 pm"><input id="recordCreatedBy" class="formParam" type="hidden" value="Julian Mulder"><input id="recordModifyDate" class="formParam" type="hidden" value="2023-02-13 02:39 pm"><input id="recordModifyBy" class="formParam" type="hidden" value="Julian Mulder"><input id="allowAdd" class="formParam" type="hidden" value="1"><input id="allowSave" class="formParam" type="hidden" value=""><input id="allowEdit" class="formParam" type="hidden" value="1"><input id="hasViewOwnership" class="formParam" type="hidden" value=""><input id="hasEditOwnership" class="formParam" type="hidden" value=""><input id="hasDeleteOwnership" class="formParam" type="hidden" value=""><input id="hasReportOwnership" class="formParam" type="hidden" value=""><input id="allowReport" class="formParam" type="hidden" value="1"><input id="levelControlID" class="formParam" type="hidden" value=""><input id="viewControlID" class="formParam" type="hidden" value=""><input id="coordinate" class="formParam sysOther" type="hidden" value="A370FADB-3480-4270-8AE0-EC7A7C322528"><input id="altitude" class="formParam sysOther" type="hidden" value="4CC97EEC-3E6B-4CD9-AA5F-B32C99FEAE5C"><input id="floor" class="formParam sysOther" type="hidden" value="C4564F7D-B876-426F-A463-F5E52A9B54E6"><input id="horizontalAccuracy" class="formParam sysOther" type="hidden" value="D9E79C8E-1408-4649-8CD3-27A6D7E8CFAB"><input id="verticalAccuracy" class="formParam sysOther" type="hidden" value="7517992F-BE59-4F98-8229-4376B0840AAC"><div class="formNav">
+    <div id="nav_E686D312-3E2F-4E66-9EAD-AC71C09267DD" class="link" onclick="navForm('E686D312-3E2F-4E66-9EAD-AC71C09267DD','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Stakeholder Individual</div>
+    <div class="separator"></div>
+    <div id="nav_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="link" onclick="navForm('D22CAEC4-4E35-4B21-8E72-315D7949C049','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Topic/Issue Assessment</div>
+  </div>
+  <div class="formPager"><input id="hdnIndex" type="hidden" value="0"><input id="hdnPageSize" type="hidden" value="0"><div class="record"></div>
+    <div class="nav">
+      <div class="pre icon chevron left"></div>
+      <div class="count"></div>
+      <div class="nxt icon chevron right"></div>
+    </div>
+  </div>
+  <div id="control_023E76E4-83B1-4C59-A421-85A512082C62" data-automation-id="viewerlbl1Control" name="lbl1" type="lbl" parent="" class="nreqbox control lbl" style="top: 16px; left: 16px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
+    <div class="c-lbl" style="height: 18px;">Topic/Issue</div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_359049FA-9B56-4D59-A670-93070530E0E4" data-automation-id="viewerddl13Control" name="ddl13" type="ddl" parent="" class="control ddl ready reqbox dirty" style="top: 16px; left: 216px; z-index: 1; width: 728px; height: 24px; display: block;" hastriggers="0" valid="1">
+    <div class="select3 select3-ddl select3_7354374e c-ddl" style="width: 728px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="1e5f5700-24bc-418e-96b2-82b6cbc93cda" title="Access - H&amp;S -> Hazard - Plant area access">Access - H&amp;S -&gt; Hazard - Plant area access</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="A8AA761F-094B-4449-965B-EA052D73BD13" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="1" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 728px; height: 24px; display: none;"></div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="2" select_max="Max" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="2" select_max="Max" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_AB9A9843-47C4-4FC5-A4A1-DC284801BA76" data-automation-id="viewerlbl2Control" name="lbl2" type="lbl" parent="" class="nreqbox control lbl" style="top: 48px; left: 16px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
+    <div class="c-lbl" style="height: 18px;">Interest</div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_63C66781-07ED-4EB2-8A2F-CAED92ED118C" data-automation-id="viewerddl2Control" name="ddl2" type="ddl" parent="" class="control ddl ready reqbox" style="top: 48px; left: 216px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0" valid="1">
+    <div class="select3 select3-ddl select3_026f85a8 c-ddl" style="width: 192px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="446ca63c-a898-4d16-8a91-05ae0b2c533f" title="Very high">Very high</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="EE852E1E-215F-421B-BDAA-257925413CBE" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="1" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 192px; height: 24px; display: none;"></div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"><item name="fml1">  var cMonitorID = 'e605dac1-c06c-4021-9789-3ca8a137bc0d'; var cKeepInformedID = 'e2ec9b66-78a5-40f7-b21b-4e766c323480'; var cActivelyEngageID = '6afe8814-8bb3-4dc6-b89c-62dbf48f1a42'; var cManageCloselyID = '2619d911-2912-4778-a53c-c44f9840774a';  var vLanguageID = sessionObj.preferredlanguageid; var vLanguage;  switch (vLanguageID) {      case 'a50a7f35-56f8-451e-82d9-946bd9adedb4': /* English */         var vLanguage = 0;         break;      case 'a818b379-11b8-4553-a97a-45a64220118c': /* Spanish */         var vLanguage = 1;         break;      case '1834e342-6f88-4094-b838-65f30a517c47': /* Portuguese */         var vLanguage = 2;         break;      default: /* Default */         var vLanguage = 0;         break; }  var vText;  var vAssessmentID; var vMonitor = ['Monitor', 'Observar', 'Monitorar' ]; var vKeepInformed = ['Keep informed',  'Mantener informado'   , 'Mantenha informado' ]; var vActivelyEngage = ['Actively engage', 'Participar activamente' , 'Envolva-se ativamente' ]; var vManageClosely = ['Manage closely',  'Administrar de cerca'    , 'Gerenciar de perto' ];   var interest = $get(     '63C66781-07ED-4EB2-8A2F-CAED92ED118C',     form)[0].id; var influence = $get(     '46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759',     form)[0].id; var color = '#ffffff'; var text = ''; var font = '#000000'; if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#3CA044';     text = 'Monitor';     vText = vMonitor[vLanguage];     vAssessmentID = cMonitorID;  } else if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#f4ac1c';     text = 'Keep informed';     vText = vKeepInformed[vLanguage];     vAssessmentID = cKeepInformedID; } else if((interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         )) {     color = '#F05123';     text = 'Actively engage';     vText = vActivelyEngage[vLanguage];     vAssessmentID = cActivelyEngageID; } else if((interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         )) {     color = '#BD081D';     text = 'Manage closely'; vText = vManageClosely[vLanguage]; vAssessmentID = cManageCloselyID; } $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .c-fml',     form).css('background-color',     color); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).css('color', font); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).val(text); ("#control_1B31E04C-0302-48B4-A0A8-67090A7E577E",     form).find("input").change(); text;   $set('EFDAF519-9B27-442B-9BF6-8FE625DFBF75', {      'id': vAssessmentID,     'value' : vAssessmentID,     'value_text'  : vText }, form); </item></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_659162BA-5364-4414-A6BA-E9860CD4174E" data-automation-id="viewerlbl3Control" name="lbl3" type="lbl" parent="" class="nreqbox control lbl" style="top: 48px; left: 552px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
+    <div class="c-lbl" style="height: 18px;">Influence</div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759" data-automation-id="viewerddl3Control" name="ddl3" type="ddl" parent="" class="control ddl ready reqbox" style="top: 48px; left: 752px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0" valid="1">
+    <div class="select3 select3-ddl select3_7ed1ec9a c-ddl" style="width: 192px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="446ca63c-a898-4d16-8a91-05ae0b2c533f" title="Very high">Very high</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="EE852E1E-215F-421B-BDAA-257925413CBE" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="1" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 192px; height: 24px; display: none;"></div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"><item name="fml1">  var cMonitorID = 'e605dac1-c06c-4021-9789-3ca8a137bc0d'; var cKeepInformedID = 'e2ec9b66-78a5-40f7-b21b-4e766c323480'; var cActivelyEngageID = '6afe8814-8bb3-4dc6-b89c-62dbf48f1a42'; var cManageCloselyID = '2619d911-2912-4778-a53c-c44f9840774a';  var vLanguageID = sessionObj.preferredlanguageid; var vLanguage;  switch (vLanguageID) {      case 'a50a7f35-56f8-451e-82d9-946bd9adedb4': /* English */         var vLanguage = 0;         break;      case 'a818b379-11b8-4553-a97a-45a64220118c': /* Spanish */         var vLanguage = 1;         break;      case '1834e342-6f88-4094-b838-65f30a517c47': /* Portuguese */         var vLanguage = 2;         break;      default: /* Default */         var vLanguage = 0;         break; }  var vText;  var vAssessmentID; var vMonitor = ['Monitor', 'Observar', 'Monitorar' ]; var vKeepInformed = ['Keep informed',  'Mantener informado'   , 'Mantenha informado' ]; var vActivelyEngage = ['Actively engage', 'Participar activamente' , 'Envolva-se ativamente' ]; var vManageClosely = ['Manage closely',  'Administrar de cerca'    , 'Gerenciar de perto' ];   var interest = $get(     '63C66781-07ED-4EB2-8A2F-CAED92ED118C',     form)[0].id; var influence = $get(     '46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759',     form)[0].id; var color = '#ffffff'; var text = ''; var font = '#000000'; if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#3CA044';     text = 'Monitor';     vText = vMonitor[vLanguage];     vAssessmentID = cMonitorID;  } else if((interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '07b838b5-4fd9-4650-848b-2013eccdbc05' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '07b838b5-4fd9-4650-848b-2013eccdbc05'         )) {     color = '#f4ac1c';     text = 'Keep informed';     vText = vKeepInformed[vLanguage];     vAssessmentID = cKeepInformedID; } else if((interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '415545b2-0e3a-4e46-9605-a542a69d3f61' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         ) || (interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '415545b2-0e3a-4e46-9605-a542a69d3f61'         )) {     color = '#F05123';     text = 'Actively engage';     vText = vActivelyEngage[vLanguage];     vAssessmentID = cActivelyEngageID; } else if((interest ==         '7413295a-5b46-44e2-add0-823ee6ca57f7' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '7413295a-5b46-44e2-add0-823ee6ca57f7'         ) || (interest ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f' &amp;&amp;         influence ==         '446ca63c-a898-4d16-8a91-05ae0b2c533f'         )) {     color = '#BD081D';     text = 'Manage closely'; vText = vManageClosely[vLanguage]; vAssessmentID = cManageCloselyID; } $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .c-fml',     form).css('background-color',     color); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).css('color', font); $('#control_1B31E04C-0302-48B4-A0A8-67090A7E577E .txt',     form).val(text); ("#control_1B31E04C-0302-48B4-A0A8-67090A7E577E",     form).find("input").change(); text;   $set('EFDAF519-9B27-442B-9BF6-8FE625DFBF75', {      'id': vAssessmentID,     'value' : vAssessmentID,     'value_text'  : vText }, form); </item></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_129CBD62-F3ED-47AC-B200-8D7BCEB3F1FD" data-automation-id="viewerlbl4Control" name="lbl4" type="lbl" parent="" class="nreqbox control lbl" style="top: 80px; left: 16px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="0">
+    <div class="c-lbl" style="height: 18px;">Assessment</div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_EFDAF519-9B27-442B-9BF6-8FE625DFBF75" data-automation-id="viewerddl_AssessmentControl" name="ddl_Assessment" type="ddl" parent="" class="nreqbox control ddl ready" style="top: 80px; left: 216px; z-index: 1; width: 192px; height: 24px; display: block;" hastriggers="1" valid="1" control_background_color="monza" control_color="white">
+    <div class="select3 select3-ddl select3_d7402de3 c-ddl disabled" style="width: 192px; height: 24px; "><a href="javascript:void(0)" class="select3-choice" tabindex="-1">   <span class="select3-chosen"><ul class="select3-tagbox"><li id="2619d911-2912-4778-a53c-c44f9840774a" title="Manage closely">Manage closely</li></ul></span><abbr class="select3-search-choice-close"></abbr>   <span class="select3-arrow" role="presentation"><b class="select3-down" role="presentation"></b><b class="select3-none" role="presentation" original-title="De-select all"></b><b class="select3-line" role="presentation"></b><b class="select3-link" role="presentation" original-title="Click to follow." style="display: none;"></b></span></a><label for="" class="select3-offscreen"></label><input class="select3-focusser select3-offscreen" type="text" aria-haspopup="true" role="button"></div><div class="c-ddl" sourceid="566BB282-28EF-4825-981F-5F937A440FE9" aggregated_sourceid="" loadondemand="0" lazyloadingenabled="0" multiselect="" apply_security="0" show_selected_only="0" expand="" refreshsource="0" style="width: 192px; height: 24px; display: none;"></div>
+    <div class="defaults"></div>
+    <div class="triggers"><item order="1" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="e605dac1-c06c-4021-9789-3ca8a137bc0d" value_display="Monitor" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="apple green" control_color="white" value_url=""></item></actions></item><item order="2" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="e2ec9b66-78a5-40f7-b21b-4e766c323480" value_display="Keep informed" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="sunglow yellow" control_color="system" value_url=""></item></actions></item><item order="3" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="6afe8814-8bb3-4dc6-b89c-62dbf48f1a42" value_display="Actively engage" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="warm orange" control_color="system" value_url=""></item></actions></item><item order="4" event="change"><conditions><item match="equal_to" control="ddl_Assessment" value="2619d911-2912-4778-a53c-c44f9840774a" value_display="Manage closely" value_factor="0.00" value_url="" value2="" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="monza" control_color="white" value_url=""></item></actions></item><item order="5" event="change"><conditions><item match="is_blank" control="ddl_Assessment" value="{{ selected}}" value_display="" value_factor="" value_url="" value2="{{ selected}}" value2_display="" value2_factor="" value2_url="" filtertype="0" valuefiltertype="0" operator="and" processflowid=""></item></conditions><actions><item type="setcolor" control="EFDAF519-9B27-442B-9BF6-8FE625DFBF75" value="=calculateCalOrTimeValue('', '', '', '')" value_display="" value_display_full="" value_factor="" script_js="" control_background_color="system" control_color="system" value_url=""></item></actions></item></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="1"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="0"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="control_1B31E04C-0302-48B4-A0A8-67090A7E577E" data-automation-id="viewerfml1Control" name="fml1" type="fml" parent="" class="nreqbox control fml ready" style="top: 112px; left: 216px; z-index: 1; width: 192px; height: 24px; display: none;" hastriggers="0" valid="1">
+    <div class="border c-fml" style="height: 22px; background-color: rgb(189, 8, 29);"><i class="icon superscript editable-input"></i><input class="txt" type="text" style="color: rgb(0, 0, 0);" value="" readonly="readonly"></div>
+    <div class="defaults"></div>
+    <div class="triggers"></div>
+    <div class="formula"></div>
+    <div class="linkedControl"></div>
+    <div class="process"><item phase="2" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="1"></item><item phase="1" select_min="" select_max="" display_min="" display_max="" validation_date="" process_linked_control="" record_read_only="1"></item></div>
+    <div class="databinding">
+    </div>
+    <div class="filter"></div>
+    <div class="datalabel"></div>
+  </div>
+  <div id="divSpacer" class="formSpacer" style="top: 136px;"></div>
+  <div id="divFlow_form_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="process-form" style="display: none;">
+    <div class="navbar"><i class="close icon cross"></i><span class="pin-flow icon pushpin transition visible" i18n="pin_process_flow" original-title="" title="Pin process flow"></span><div id="divNavItemProcFlow">
+        <div class="link" i18n="process_flow" title="Process flow">Process flow</div>
+      </div>
+    </div>
+    <div class="flows">
+      <div id="divProcess_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="widget processflow">
+        <div class="propertyBox">
+          <div class="object">
+            <div class="icon tree"></div>
+            <div class="title">
+              <div class="name">Stakeholder Assessment</div>
+              <div class="type" i18n="process_flow" title="Process flow">Process flow</div>
+            </div>
+          </div>
+          <div align="center" class="padded">
+            <div id="step_1" class="flowstep">
+              <div class="step" phasenumber="1" phaseid="EE20BFC5-9752-47BF-892F-ACFD59E50F50">
+                <div class="title">Add phase</div><input id="step_1_visible" type="text" value="#control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_1_readonly" type="text" value="#control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_1_mandatory" type="text" value="#control_63C66781-07ED-4EB2-8A2F-CAED92ED118C, #control_359049FA-9B56-4D59-A670-93070530E0E4, #control_46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759"><div class="icon.edit" onclick="setPhase('D22CAEC4-4E35-4B21-8E72-315D7949C049', 1)"></div>
+                <div class="icon tree"></div>
+              </div>
+              <div class="shadow"></div>
+            </div>
+            <div class="next"></div>
+            <div id="step_2" class="flowstep">
+              <div class="step active" phasenumber="2" phaseid="AE3A6920-FB3C-4ADC-A9D4-6DAC75B62B1B">
+                <div class="title">Edit phase</div><input id="step_2_visible" type="text" value="#control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_2_readonly" type="text" value="#control_EFDAF519-9B27-442B-9BF6-8FE625DFBF75, #control_1B31E04C-0302-48B4-A0A8-67090A7E577E "><input id="step_2_mandatory" type="text" value="#control_46284CB6-8E0D-4AF6-BD22-0AF4AA6E7759, #control_63C66781-07ED-4EB2-8A2F-CAED92ED118C, #control_359049FA-9B56-4D59-A670-93070530E0E4"><div class="icon.edit" onclick="setPhase('D22CAEC4-4E35-4B21-8E72-315D7949C049', 2)"></div>
+                <div class="icon tree"></div>
+              </div>
+              <div class="shadow"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="divReport_form_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="process-form" style="display: none;">
+    <div class="navbar"><i class="close icon cross"></i><div id="divNavItem">
+    <div id="nav_E686D312-3E2F-4E66-9EAD-AC71C09267DD" class="link" onclick="navForm('E686D312-3E2F-4E66-9EAD-AC71C09267DD','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Stakeholder Individual</div>
+    <div class="separator"></div>
+    <div id="nav_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="link" onclick="navForm('D22CAEC4-4E35-4B21-8E72-315D7949C049','D22CAEC4-4E35-4B21-8E72-315D7949C049')">Topic/Issue Assessment</div>
+  </div>
+    </div>
+    <div class="flows">
+      <div id="divReports_D22CAEC4-4E35-4B21-8E72-315D7949C049" class="widget processflow">
+        <div class="propertyBox">
+          <div class="object">
+            <div class="icon chart-bars three"></div>
+            <div class="title">
+              <div class="name">Stakeholder Assessment</div>
+              <div class="type"></div>
+            </div>
+          </div>
+          <div align="center" class="padded"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="events_D22CAEC4-4E35-4B21-8E72-315D7949C049_form" class="events"></div>
+  <div class="processFlow"><item phasenumber="2" phaseid="AE3A6920-FB3C-4ADC-A9D4-6DAC75B62B1B"></item><item phasenumber="1" phaseid="EE20BFC5-9752-47BF-892F-ACFD59E50F50"></item></div>
+  <div id="divMainNotif" class="notifications">
+    <div id="divMessage" class="ui floating icon message"><i id="messageIcon" class="icon"></i><div class="content">
+        <div id="txtHeader" i18n="record_saved" class="header" title="Record saved">Record saved</div>
+      </div>
+    </div>
+  </div>
+</div>
